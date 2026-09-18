@@ -6,3 +6,4 @@ Version A
 and
 Version B
  branch-b
+Fixed a typo.
